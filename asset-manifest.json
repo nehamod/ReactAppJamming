@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactAppJamming/static/css/main.7fc568c3.chunk.css",
+    "main.js": "/ReactAppJamming/static/js/main.19702df5.chunk.js",
+    "main.js.map": "/ReactAppJamming/static/js/main.19702df5.chunk.js.map",
+    "runtime-main.js": "/ReactAppJamming/static/js/runtime-main.a334e6dc.js",
+    "runtime-main.js.map": "/ReactAppJamming/static/js/runtime-main.a334e6dc.js.map",
+    "static/js/2.7da80ee2.chunk.js": "/ReactAppJamming/static/js/2.7da80ee2.chunk.js",
+    "static/js/2.7da80ee2.chunk.js.map": "/ReactAppJamming/static/js/2.7da80ee2.chunk.js.map",
+    "index.html": "/ReactAppJamming/index.html",
+    "precache-manifest.a79f004b3ec36456d4fbf84fba41fe00.js": "/ReactAppJamming/precache-manifest.a79f004b3ec36456d4fbf84fba41fe00.js",
+    "service-worker.js": "/ReactAppJamming/service-worker.js",
+    "static/css/main.7fc568c3.chunk.css.map": "/ReactAppJamming/static/css/main.7fc568c3.chunk.css.map",
+    "static/js/2.7da80ee2.chunk.js.LICENSE.txt": "/ReactAppJamming/static/js/2.7da80ee2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ReactAppJamming/static/media/background_photo_desktop.37be7357.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a334e6dc.js",
+    "static/js/2.7da80ee2.chunk.js",
+    "static/css/main.7fc568c3.chunk.css",
+    "static/js/main.19702df5.chunk.js"
+  ]
+}
